@@ -1,0 +1,900 @@
+@charset "utf-8";
+
+.bg {
+	background:#0FF;
+}
+
+
+.bg #web {
+	width:985px;
+	height:auto;
+}
+
+
+.bg center #web #container02 {
+	
+	background-color:#F00;
+	position:absolute;
+	top:60px;
+	width:1000px;
+	height:1550px;
+	
+}
+.bg #container02 #vote {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:400px;
+	top:150px;
+	background-color:#FFF;
+	color: #F00;
+	font-size:1.30em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+	
+}
+
+.bg #container02 #vote:hover {
+	
+	background-color:#CCC;
+	
+}
+
+
+
+.bg #container02 #Likes {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:400px;
+	top:380px;
+	background-color:#FFF;
+	
+}
+
+.bg #container02 #Likes:hover {
+	
+	background-color:#CCC;
+	
+}
+
+
+.bg #container02 #Dislikes {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:400px;
+	top:650px;
+	background-color:#FFF;
+	
+}
+
+.bg #container02 #Dislikes:hover {
+	
+	background-color:#CCC;
+	
+}
+
+.bg #container02 #Talent {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:400px;
+	top:900px;
+	background-color:#FFF;
+	
+}
+
+
+
+.bg center #web #container02 #vote #txt01 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #vote #num01 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.bg center #web #container02 #Likes #txt02 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #Likes #num02 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+
+.bg center #web #container02 #Dislikes #txt03 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #Dislikes #num03 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+
+.bg center #web #container02 #Talent #txt04 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #Talent #num04 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.bg center #web #container02 #name {
+	
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	color:#FFF; 
+	font-size:2em;
+	position:absolute; 
+	left:400px;
+	top:60px;
+}
+
+.bg #container02 #mem {
+	
+	width:200px;
+	height:200px;
+	background-color:#FFF;
+	position:absolute;
+	top:1200px;
+	left:400px;
+	border-radius:360px;
+	
+}
+
+
+
+
+
+.bg #container02 #mem #memText {
+	
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	top:5px;
+	position:absolute;
+	left:40px;
+	
+}
+
+.bg #container02 #mem #num05 {
+	
+	color: #F00;
+	font-size:1em;
+	padding:0px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	top:60px;
+	position:absolute;
+	left:40px;
+	
+	
+}
+
+.bg #container02 #backButton {
+	width:200px;
+	height:50px;
+	background-color:#FFF;
+	top:600px;
+	position:absolute;
+	left:400px;
+	top:1460px;
+	border-radius:100px;
+}
+
+.bg #container02 #backButton:hover {
+	
+	background-color:#CCC;
+	
+
+}
+
+
+
+
+.bg #container02 #backButton #buttonText {
+	
+	width:100%;
+	height:50px;
+	font-size:1.40em;	
+	color:#F00;
+	position:absolute;
+	top:16px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.bg #container02 #backButton #buttonText:hover {
+	
+	color:#900;
+
+}
+
+
+
+
+@media screen and (max-width:768px){
+	/* tablets.. pad ect ...*/
+	
+	.bg center #web #container02 {
+	
+	background-color:#F00;
+	position:absolute;
+	top:60px;
+	width:98%;
+	height:1550px;
+	
+}
+	
+	
+	.bg #container02 #vote {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:35%;
+	top:150px;
+	background-color:#FFF;
+	color: #F00;
+	font-size:1.30em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+	
+}
+
+.bg #container02 #Likes {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:35%;
+	top:380px;
+	background-color:#FFF;
+	
+}
+
+.bg #container02 #Dislikes {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:35%;
+	top:650px;
+	background-color:#FFF;
+	
+}
+
+.bg #container02 #Talent {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:35%;
+	top:900px;
+	background-color:#FFF;
+	
+}
+
+.bg center #web #container02 #vote #txt01 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #vote #num01 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.bg center #web #container02 #Likes #txt02 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #Likes #num02 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+
+.bg center #web #container02 #Dislikes #txt03 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #Dislikes #num03 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+
+.bg center #web #container02 #Talent #txt04 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #Talent #num04 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.bg center #web #container02 #name {
+	
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	color:#FFF; 
+	font-size:2em;
+	position:absolute; 
+	left:35%;
+	top:60px;
+}
+	
+	
+.bg #container02 #mem {
+	
+	width:200px;
+	height:200px;
+	background-color:#FFF;
+	position:absolute;
+	top:1200px;
+	left:35%;
+	border-radius:360px;
+	
+}
+.bg #container02 #mem #memText {
+	
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	top:5px;
+	position:absolute;
+	left:40px;
+	
+}
+
+.bg #container02 #mem #num05 {
+	
+	color: #F00;
+	font-size:1em;
+	padding:0px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	top:60px;
+	position:absolute;
+	left:40px;
+	
+	
+}
+
+.bg #container02 #backButton {
+	width:200px;
+	height:50px;
+	background-color:#FFF;
+	top:600px;
+	position:absolute;
+	left:35%;
+	top:1460px;
+	border-radius:100px;
+}
+
+.bg #container02 #backButton:hover {
+	
+	background-color:#CCC;
+	
+
+}
+
+
+
+
+.bg #container02 #backButton #buttonText {
+	
+	width:100%;
+	height:50px;
+	font-size:1.40em;	
+	color:#F00;
+	position:absolute;
+	top:16px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.bg #container02 #backButton #buttonText:hover {
+	
+	color:#900;
+
+}
+
+	
+}
+
+@media screen and (max-width:480px){
+	
+		.bg center #web #container02 {
+	
+	background-color:#F00;
+	position:absolute;
+	top:60px;
+	width:96%;
+	height:1550px;
+	
+}
+	
+	
+	.bg #container02 #vote {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:25%;
+	top:150px;
+	background-color:#FFF;
+	color: #F00;
+	font-size:1.30em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+	
+}
+
+.bg #container02 #Likes {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:25%;
+	top:380px;
+	background-color:#FFF;
+	
+}
+
+.bg #container02 #Dislikes {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:25%;
+	top:650px;
+	background-color:#FFF;
+	
+}
+
+.bg #container02 #Talent {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:25%;
+	top:900px;
+	background-color:#FFF;
+	
+}
+
+.bg center #web #container02 #vote #txt01 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #vote #num01 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.bg center #web #container02 #Likes #txt02 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #Likes #num02 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+
+.bg center #web #container02 #Dislikes #txt03 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #Dislikes #num03 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+
+.bg center #web #container02 #Talent #txt04 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #Talent #num04 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.bg center #web #container02 #name {
+	
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	color:#FFF; 
+	font-size:2em;
+	position:absolute; 
+	left:25%;
+	top:60px;
+}
+	
+
+.bg #container02 #mem {
+	
+	width:200px;
+	height:200px;
+	background-color:#FFF;
+	position:absolute;
+	top:1150px;
+	left:25%;
+	border-radius:360px;
+	
+}
+.bg #container02 #mem #memText {
+	
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	top:5px;
+	position:absolute;
+	left:40px;
+	
+}
+
+.bg #container02 #mem #num05 {
+	
+	color: #F00;
+	font-size:1em;
+	padding:0px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	top:60px;
+	position:absolute;
+	left:20px;
+	
+	
+}
+
+.bg #container02 #backButton {
+	width:200px;
+	height:50px;
+	background-color:#FFF;
+	top:600px;
+	position:absolute;
+	left:25%;
+	top:1460px;
+	border-radius:100px;
+}
+
+.bg #container02 #backButton:hover {
+	
+	background-color:#CCC;
+	
+
+}
+
+
+
+
+.bg #container02 #backButton #buttonText {
+	
+	width:100%;
+	height:50px;
+	font-size:1.40em;	
+	color:#F00;
+	position:absolute;
+	top:16px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.bg #container02 #backButton #buttonText:hover {
+	
+	color:#900;
+
+}
+
+	
+}
+
+@media screen and (max-width:320px){
+	
+.bg center #web #container02 {
+	
+	background-color:#F00;
+	position:absolute;
+	top:60px;
+	width:95%;
+	height:1550px;
+	
+}
+	
+	
+	.bg #container02 #vote {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:15%;
+	top:150px;
+	background-color:#FFF;
+	color: #F00;
+	font-size:1.30em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+	
+}
+
+.bg #container02 #Likes {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:15%;
+	top:380px;
+	background-color:#FFF;
+	
+}
+
+.bg #container02 #Dislikes {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:15%;
+	top:650px;
+	background-color:#FFF;
+	
+}
+
+.bg #container02 #Talent {
+	
+	width:200px;
+	height:200px;
+	border-radius:360px;
+	position:absolute;
+	left:15%;
+	top:900px;
+	background-color:#FFF;
+	
+}
+
+.bg center #web #container02 #vote #txt01 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #vote #num01 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.bg center #web #container02 #Likes #txt02 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #Likes #num02 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+
+.bg center #web #container02 #Dislikes #txt03 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #Dislikes #num03 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+
+.bg center #web #container02 #Talent #txt04 {
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	
+	
+}
+
+.bg center #web #container02 #Talent #num04 {
+	color: #F00;
+	font-size:1.80em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.bg center #web #container02 #name {
+	
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; 
+	color:#FFF; 
+	font-size:2em;
+	position:absolute; 
+	left:15%;
+	top:60px;
+}
+	
+
+.bg #container02 #mem {
+	
+	width:200px;
+	height:200px;
+	background-color:#FFF;
+	position:absolute;
+	top:1200px;
+	left:15%;
+	border-radius:360px;
+	
+}
+.bg #container02 #mem #memText {
+	
+	color: #F00;
+	font-size:1.60em;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	top:5px;
+	position:absolute;
+	left:40px;
+	
+}
+
+.bg #container02 #mem #num05 {
+	
+	color: #F00;
+	font-size:1em;
+	padding:0px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	top:60px;
+	position:absolute;
+	left:40px;
+	
+	
+}
+
+.bg #container02 #backButton {
+	width:200px;
+	height:50px;
+	background-color:#FFF;
+	top:600px;
+	position:absolute;
+	left:15%;
+	top:1460px;
+	border-radius:100px;
+}
+
+.bg #container02 #backButton:hover {
+	
+	background-color:#CCC;
+	
+
+}
+
+
+
+
+.bg #container02 #backButton #buttonText {
+	
+	width:100%;
+	height:50px;
+	font-size:1.40em;	
+	color:#F00;
+	position:absolute;
+	top:16px;
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+.bg #container02 #backButton #buttonText:hover {
+	
+	color:#900;
+
+}	
+	
+}
+
